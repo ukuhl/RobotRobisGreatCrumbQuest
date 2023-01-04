@@ -1,6 +1,6 @@
 # Robot Robi's Great Crumb Quest
 
-This repository contains a children's book written by Ulrike Kuhl about a vacuum cleaner robot that went out into the world to find crumbs.
+This repository contains a [children's book](https://github.com/ukuhl/RobotRobisGreatCrumbQuest/blob/498045f89d5ec19030c2e6055779249bd5dfb474/RoboterRobi_eng_FINAL.pdf) written by Ulrike Kuhl about a vacuum cleaner robot that went out into the world to find crumbs.
 Images generated using [DALL•E 2](https://openai.com/dall-e-2/) by OpenAI.
 Translated from German with OpenAI's [ChatGPT](https://openai.com/blog/chatgpt/). 
 The German original is available [here](https://github.com/ukuhl/RoboterRobisGrosseKruemeljagd).
