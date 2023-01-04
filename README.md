@@ -3,7 +3,7 @@
 This repository contains a children's book written by Ulrike Kuhl about a vacuum cleaner robot that went out into the world to find crumbs.
 Images generated using [DALL•E 2](https://openai.com/dall-e-2/) by OpenAI.
 Translated from German with OpenAI's [ChatGPT](https://openai.com/blog/chatgpt/). 
-The German original is available [here]().
+The German original is available [here](https://github.com/ukuhl/RoboterRobisGrosseKruemeljagd).
 
 Copyright ©2023 by [Ulrike Kuhl](mailto:u_kuhl@web.de)
 
